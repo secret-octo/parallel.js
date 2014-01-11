@@ -6,7 +6,7 @@
     "Sebastian Mayr <sebmaster16@gmail.com> (http://s3bmaster.blogspot.co.at/)"
   ],
   "description": "parallel.js enables easy multi-thread processing in javascript",
-  "main": "lib/parallel.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/adambom/parallel.js.git"
